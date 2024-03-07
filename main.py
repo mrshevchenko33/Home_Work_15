@@ -16,5 +16,5 @@ else:
     word = 'дні'
   else:
     word = 'днів'
-    result = (f"{day} {word}, {hour:02}:{min:02}:{sec:02}")
-    print(result)
+  result = (f"{day} {word}, {hour:02}:{min:02}:{sec:02}")
+  print(result)
